@@ -6,6 +6,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [Install](/INSTALL.md)
 - [Section 1](#section-1)
   - [Sub-Section 1.1](#sub-section-11)
   - [Sub-Section 1.2](#sub-section-12)
